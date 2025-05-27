@@ -16,9 +16,9 @@ Console-based Hangman game where the player tries to guess a randomly selected w
 
 ## How to run
 
-1 .Clone the repository or download the files
-2. Make sure you have Python 3 installed
-3. Run the script
+1 .Clone the repository or download the files  
+2. Make sure you have Python 3 installed  
+3. Run the script  
 Note: The word list and ASCII art are stored in separate modules (hangman_word_list.py and hangman_art.py).
 
 ## Possible Improvements
